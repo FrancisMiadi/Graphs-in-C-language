@@ -20,5 +20,5 @@ This is a **university project** for implementing **Dijkstra’s Algorithm** and
 
 ## 🌐 Contact
 **For any inquiries, reach out via:**
-- **Email:** *francismiadi0@gmial.com*
+- **Email:** *francismiadi0@gmail.com*
 - **GitHub:** *FrancisMiadi* 
