@@ -1,7 +1,7 @@
 # 🏙️ Shortest Path Finder Using Dijkstra & BFS  
 
 ## 📌 Overview  
-This is a **university project** for implementing **Dijkstra’s Algorithm** and **Breadth-First Search (BFS)** to determine the **shortest path between two cities**. The program reads city data from a file and calculates the shortest path based on user input. It prints the full route for both algorithms and the total distance for **Dijkstra’s algorithm**.  
+This is a **university project** for implementing **Dijkstra’s Algorithm** and **Breadth-First Search (BFS)** to determine the **shortest path between two cities**. The program reads the source and destination cities data from a file based on user input, calculates the shortest path, and prints the full route for both algorithms and the total distance (Cost) for **Dijkstra’s algorithm**.  
 
 ## 💡 Features  
 - **Load Cities:** Reads the file `cities.txt` and constructs a graph representation.  
